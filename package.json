@@ -1,0 +1,21 @@
+{
+  "name": "mypack",
+  "version": "1.0.0",
+  "description": "a webPack made by zhw",
+  "bin": {
+    "yajoke": "index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^8.2.0",
+    "download-git-repo": "^3.0.2",
+    "ejs": "^3.1.6",
+    "open": "^8.3.0"
+  }
+}
