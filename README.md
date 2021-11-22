@@ -1,6 +1,6 @@
 # Yajokepack!
 
-use Yajokepack to buld file structure can make it to be more high efficientive!
+use Yajokepack to buld file structure can make it to be higher efficientive!
 
 ## Project setup
 
